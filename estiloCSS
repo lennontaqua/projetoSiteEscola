@@ -1,0 +1,9 @@
+h1{
+  font-style: italic;
+}
+#fundo{
+  background-color: #a3a9fa;
+}
+.paragrafo{
+  color: red;
+}
