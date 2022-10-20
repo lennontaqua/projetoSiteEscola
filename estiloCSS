@@ -2,7 +2,7 @@ h1{
   font-style: italic;
 }
 #fundo{
-  background-color: #a3a9fa;
+  background-color: #dc143c;
 }
 .paragrafo{
   color: red;
